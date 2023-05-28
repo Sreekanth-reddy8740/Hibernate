@@ -1,0 +1,14 @@
+org\sreekanth\core\entity\Brand.class
+org\sreekanth\core\App.class
+org\sreekanth\core\entity\Flight.class
+org\sreekanth\core\repository\UserRepository.class
+org\sreekanth\core\util\ConnectionPropertiesUtil.class
+org\sreekanth\core\repository\UserHqlRepository.class
+org\sreekanth\core\entity\Team.class
+org\sreekanth\core\entity\Captain.class
+org\sreekanth\core\dto\UserDto.class
+org\sreekanth\core\repository\AssosiationRepository.class
+org\sreekanth\core\entity\AirHosterss.class
+org\sreekanth\core\entity\UserEntity.class
+org\sreekanth\core\util\SessionFactoryUtil.class
+org\sreekanth\core\entity\Product.class
